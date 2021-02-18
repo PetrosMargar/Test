@@ -1,0 +1,9 @@
+
+{
+  "loginName": "Supervisor",
+  "password": "",
+  "loginInstallId": "data_0201",
+  "clientId": 1,
+  "browser" : "chrome",
+  "testsList": [ "authentificationBySsoUrlTest" , "authentificationByInputElementsTest",  "authentificationByQueryStringTest" ]
+}
